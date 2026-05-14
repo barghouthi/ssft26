@@ -12,3 +12,7 @@ The first lecture covers the foundations of quantum computing through two perspe
 ## Lecture 2: Compilers for Quantum Computers
 
 The second lecture dives deep into compilers for quantum computers, covering circuit optimization and mapping and routing, both through the lens of formal methods.
+
+## Lab
+
+See [lab.md](lab.md).

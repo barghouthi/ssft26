@@ -21,6 +21,7 @@ Implement a reasonable set of standard gates, for example:
 
 - Single-qubit: `I`, `H`, `X`, `Y`, `Z`, `S`, `T`
 - Two-qubit: `CNOT`, `CZ`, `SWAP`
+- Measurement (in the computational basis)
 
 ## Step 3: Build the interpreter
 

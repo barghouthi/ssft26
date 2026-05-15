@@ -39,7 +39,7 @@ Does the output match what you expect?
 
 ## Step 5: Build the verifier
 
-Implement a verifier that takes two circuits and **proves their equivalence** — i.e., decides whether they compute the same unitary (up to global phase).
+Implement a verifier that takes two circuits and **proves their equivalence** — i.e., decides whether they compute the same unitary.
 
 Sanity checks:
 

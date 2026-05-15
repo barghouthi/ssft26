@@ -11,7 +11,7 @@ The goal of this lab is to get your hands dirty building three things:
 Pick a representation for quantum states and operations. You have (at least) two options:
 
 - a **vector / matrix** representation — see [Barghouthi's blog post](https://barghouthi.github.io/2021/08/05/quantum/).
-- a **set / stabilizer-style** representation — see [this paper](https://eprint.iacr.org/2025/1091.pdf).
+- a **set-based** representation — see [this paper](https://eprint.iacr.org/2025/1091.pdf).
 
 Ideally, try **both** and see which one is more ergonomic for the rest of the lab.
 

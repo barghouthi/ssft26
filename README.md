@@ -13,6 +13,9 @@ The first lecture covers the foundations of quantum computing through two perspe
 
 The second lecture dives deep into compilers for quantum computers, covering circuit optimization and mapping and routing, both through the lens of formal methods.
 
+- [Circuit optimization slides](https://qqq-wisc.github.io/files/circuit_optimization_asplos25_tutorial.pdf)
+- [Mapping and routing slides](https://qqq-wisc.github.io/files/qmr-slides.pdf)
+
 ## Lab
 
 See [lab.md](lab.md).

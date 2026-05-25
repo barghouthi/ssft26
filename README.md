@@ -19,3 +19,7 @@ The second lecture dives deep into compilers for quantum computers, covering cir
 ## Lab
 
 See [lab.md](lab.md).
+
+## Tool References
+
+- [QQQ project](https://qqq-wisc.github.io/)

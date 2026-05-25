@@ -4,8 +4,9 @@ Resources for Aws Albarghouthi's course at the [Summer School on Formal Techniqu
 
 ## Lecture 1: Foundations of Quantum Computing
 
-The first lecture covers the foundations of quantum computing through two perspectives. We encourage attendees to consider the following two resources:
+The first lecture covers the foundations of quantum computing through two perspectives. We encourage attendees to consider the following resources:
 
+- [Lecture 1 notes](SSFT%202026.pdf)
 - https://eprint.iacr.org/2025/1091.pdf
 - https://barghouthi.github.io/2021/08/05/quantum/
 
